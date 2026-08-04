@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=Your%20Name&fontSize=42&fontColor=58A6FF&fontAlignY=40&animation=fadeIn&desc=Java%20Backend%20Developer&descSize=18&descAlignY=60&descColor=8B949E" /> <br/> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+scalable+REST+APIs+with+Java+%26+Spring+Boot;Backend+Architecture+%7C+System+Design+%7C+Clean+Code;Open+to+Java+Backend+%2F+SDE+Internship+Roles" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=Harsh%20Kumar&fontSize=42&fontColor=58A6FF&fontAlignY=40&animation=fadeIn&desc=Java%20Backend%20Developer&descSize=18&descAlignY=60&descColor=8B949E" /> <br/> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+scalable+REST+APIs+with+Java+%26+Spring+Boot;Backend+Architecture+%7C+System+Design+%7C+Clean+Code;Open+to+Java+Backend+%2F+SDE+Internship+Roles" />
 
 <br/><br/>
 
@@ -6,7 +6,7 @@ Show Image Show Image Show Image Show Image
 
 </div> <br/>
 About Me
-<img align="right" width="270" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
+<img align="right" width="250" src="https://github.com/harshiijavadev-code.png"/>
 
 I'm a 4th-year Computer Science student specializing in Java backend development. My focus is on designing clean, well-structured REST APIs and understanding the architectural decisions that make backend systems reliable and maintainable.
 
@@ -21,7 +21,7 @@ Tech Stack
 
 Languages
 
-<img src="https://skillicons.dev/icons?i=java,mysql,python" />
+<img src="https://skillicons.dev/icons?i=java,mysql" />
 
 Backend & Frameworks
 
@@ -72,23 +72,15 @@ Microservices Fundamentals
 Distributed Systems (learning)
 </td> </tr> </table>
 Current Focus
-java
-public class CurrentFocus {
+## 🌱 Currently Learning
 
-    private final String[] learning = {
-        "System Design (HLD & LLD)",
-        "Microservices Architecture",
-        "Distributed Systems",
-        "Docker",
-        "Redis",
-        "AWS Fundamentals",
-        "Data Structures & Algorithms"
-    };
-
-    public String objective() {
-        return "Strengthening backend fundamentals to build production-grade systems.";
-    }
-}
+- ✅ System Design (HLD & LLD)
+- ✅ Microservices
+- ✅ Docker
+- ✅ Redis
+- ✅ Spring Security
+- ✅ Data Structures & Algorithms (Blind 75)
+- ✅ Clean Architecture
 Featured Project
 <div align="center">
 SupportIQ
@@ -121,11 +113,11 @@ Tech Stack
 
 <div align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white" /> </div> <div align="center">
 
-Repository: github.com/your-github-username/SupportIQ
+Repository: github.com/harshiijavadev-code/SupportIQ
 
 </div>
 GitHub Analytics
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" /> <br/> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" /> </div>
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshiijavadev-code&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshiijavadev-code&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshiijavadev-code&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" /> <br/> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshiijavadev-code&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" /> </div>
 Coding Profiles
 <div align="center">
 
@@ -134,7 +126,20 @@ Show Image Show Image Show Image Show Image
 </div>
 Connect With Me
 <div align="center">
+## 💻 Coding Profiles
 
-Show Image Show Image Show Image
+<div align="center">
 
-</div> <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer" />
+<a href="https://leetcode.com/u/harshii2004/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="www.linkedin.com/in/harsh-kumar-h21980">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/harshiijavadev-code">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
