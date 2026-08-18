@@ -2,7 +2,7 @@
 
 <br/><br/>
 
-Show Image Show Image Show Image Show Image
+
 
 </div> <br/>
 About Me
@@ -121,7 +121,7 @@ GitHub Analytics
 Coding Profiles
 <div align="center">
 
-Show Image Show Image Show Image Show Image
+
 
 </div>
 Connect With Me
