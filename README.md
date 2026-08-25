@@ -27,6 +27,8 @@ Backend & Frameworks
 
 <div align="left"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" /> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" /> <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white" /> </div>
 
+
+
 Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
@@ -113,11 +115,35 @@ Tech Stack
 
 <div align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white" /> </div> <div align="center">
 
+Agentic AI & Automation
+
+<div align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM%20Watson-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic%20AI-0D1117?style=flat-square&logo=openai&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Workflow%20Automation-0D1117?style=flat-square&logo=n8n&logoColor=58A6FF" />
+</div>
+
+Experience
+<img align="right" width="250" src="https://github.com/harshiijavadev-code.png"/>
+
+**Backend Developer Intern — Gadiel Technologies** *(Ongoing)*
+*Workflow Automation Startup*
+
+- Working on agentic AI orchestration using IBM Watson to power intelligent automation workflows
+- Building and integrating automation pipelines that connect backend services with AI-driven decision logic
+- Collaborating on end-to-end workflow automation features for a small, fast-moving product team
+
+<br clear="right"/>
+
 Repository: github.com/harshiijavadev-code/SupportIQ
 
 </div>
 GitHub Analytics
 <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshiijavadev-code&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshiijavadev-code&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshiijavadev-code&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" /> <br/> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshiijavadev-code&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" /> </div>
+
 Coding Profiles
 <div align="center">
 
