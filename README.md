@@ -200,6 +200,12 @@ SupportIQ is a backend platform for managing customer support tickets, built to 
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/harshiijavadev-code/harshiijavadev-code/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
 ---
 
 ## 📊 GitHub Analytics
